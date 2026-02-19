@@ -2,7 +2,6 @@
 
 
 
-## Architecture<img width="700" height="842" alt="Architetcture" src="https://github.com/user-attachments/assets/18ccf244-2abe-47a2-abf1-bd35d330d5ab" />
 
 
 
