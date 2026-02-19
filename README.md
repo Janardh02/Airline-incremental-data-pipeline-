@@ -55,7 +55,7 @@ The architecture follows modern data engineering principles including:
 - Contains enriched, analytics-ready dataset
 
 
-## 🔥 Incremental Processing Logic
+##  Incremental Processing Logic
 
 The AWS Glue job is configured with **Job Bookmarking** enabled.
 
@@ -68,7 +68,7 @@ This ensures:
 Airport dimension data is static and not incremental.
 
 
-## ⚙️ Step Function Workflow
+##  Step Function Workflow
 
 1. Start Glue Crawler
 2. Poll crawler status until completion
@@ -80,7 +80,7 @@ Airport dimension data is static and not incremental.
 This provides controlled orchestration and error handling.
 
 
-## 🛠 Glue ETL Logic
+##  Glue ETL Logic
 
 The Glue job performs the following steps:
 
