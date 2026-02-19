@@ -1,5 +1,14 @@
 #  Airline Incremental Data Processing Pipeline (AWS)
 
+
+
+## Architecture<img width="700" height="842" alt="Architetcture" src="https://github.com/user-attachments/assets/18ccf244-2abe-47a2-abf1-bd35d330d5ab" />
+
+
+
+
+
+
 ##  Project Overview
 
 This project implements an event-driven incremental data pipeline on AWS to process daily airline flight data, enrich it with airport reference data, and load the curated dataset into a data warehouse.
